@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngeloCamachoGarcia
 - 👀 I’m interested in dinosaurs
 - 🌱 I’m currently learning web/game deployment
-- 💞️ I’m looking to collaborate on SpaceX
+- 💞️ I’m looking to collaborate on SpaceX or KFC
 - 📫 How to reach me worksketck@gmail.com
 
 <!---
